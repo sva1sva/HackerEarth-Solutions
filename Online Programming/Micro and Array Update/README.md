@@ -1,7 +1,7 @@
 # Micro and Array Update
 [https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/micro-and-array-update/](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/micro-and-array-update/)
 ## This is a solution to HackerEarth problem. Following steps are followed:
-####For each test case
+###### For each test case
 -   First, we take the size of the array as input (N).
 
 -   Then,  we take value of K as input.
