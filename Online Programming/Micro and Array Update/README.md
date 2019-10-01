@@ -1,7 +1,7 @@
 # Micro and Array Update
 [https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/micro-and-array-update/](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/micro-and-array-update/)
 ## This is a solution to HackerEarth problem. Following steps are followed:
-
+######For each test case
 -   First, we take the size of the array as input (N).
 
 -   Then,  we take value of K as input.
@@ -10,7 +10,7 @@
 
 -   The space separated array elements are taken as input from user.
 
--   At the same time, we find the minimum element in the array.
+-   After that, we find the minimum element in the array.
 
 -   If minimum element is greater than K, we print 0 else we print value of 
 	(K - minimum element) as the answer.
