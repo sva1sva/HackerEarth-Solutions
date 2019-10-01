@@ -15,8 +15,8 @@
 -   If minimum element is greater than K, we print 0 else we print value of 
 	(K - minimum element) as the answer.
 	
-    **Logic**
-    [We are supposed to find out the minimum time it takes to for each array element's value to become greater than or equal to K. 
+### Logic
+    We are supposed to find out the minimum time it takes to for each array element's value to become greater than or equal to K. 
     For this, we find the minimum element from the array and compare it with K. 
     If value is greater than or equal to K , it means all elements are already greater than or equal to K. Hence, we get 0 as answer. 
-    If value is lesser than K, performing (K-minimum element) gives us least amount of time required.]
+    If value is lesser than K, performing (K-minimum element) gives us least amount of time required.
